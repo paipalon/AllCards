@@ -1,1 +1,1 @@
-# AllCards
+Piirtää BlackJack kortit totunnaisessa järjestyksessä
